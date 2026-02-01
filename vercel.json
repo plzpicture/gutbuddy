@@ -1,5 +1,0 @@
-{
-  "buildCommand": "cd gutbuddy-prototype && npm install && npm run build",
-  "outputDirectory": "gutbuddy-prototype/dist",
-  "installCommand": "cd gutbuddy-prototype && npm install"
-}
